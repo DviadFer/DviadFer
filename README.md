@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**DviadFer/DviadFer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍💻 I'm Diego, a fresh out of the school developer. 
+- 🔭 I'm currently looking for a job in this industry.
+- 🌱 At the moment, I'm learning all the basics and tools it takes to be become a great dev.
+- 🤝🏻 I’m looking to collaborate on medium/small companies. I feel like the lesser the group, the bigger are my opportunities for a wholesome and holistic learning.
+- 🧪 Fun fact: I also have a finished Chemistry Degree.
+- 👨🏻‍🏫 Currently working as a part-time teacher at https://academiavalor.com/. 
+- 💬 Ask me about anything!
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌳 I'm a nature enthusiast. I love to go on hiking routes and camping outdoors with friends.
+- 🎤 My bigest hobby is singing and acting. I love theater! I also [sing in a choir](https://www.instagram.com/elacordesecreto/?hl=en). 🤫
+- 🔬 I love science related topics, especially in tech innovations.
+- 🎮 Yup, I enjoy video games. I guess is a common trait among tech folks.
+- 🎶 I could not live without LIVE music. ¿An interesting concert or nearby festival? Count me in!
+- 🌍 Discovering new places and traveling around the world are a must for me!
+
+## Contact
+
+- 📫 How to reach me: diegoviadfer@gmail.com
+
