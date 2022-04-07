@@ -5,7 +5,7 @@
 - 🌱 At the moment, I'm learning all the basics and tools it takes to be become a great dev.
 - 🤝🏻 I’m looking to collaborate on medium/small companies. I feel like the lesser the group, the bigger are my opportunities for a wholesome and holistic learning.
 - 🧪 Fun fact: I also have a finished Chemistry Degree.
-- 👨🏻‍🏫 I've also worked as a part-time teacher at https://academiavalor.com/. 
+- 👨🏻‍🏫 I've also worked as a part-time teacher at [Academia Valor](https://academiavalor.com/). 
 - 💬 Ask me about anything!
 
 ## About me
