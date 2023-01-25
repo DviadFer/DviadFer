@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨🏻‍💻 I'm Diego, a fresh out of the school developer. 
+- 👨🏻‍💻 I'm Diego, a junior full stack developer. 
 - 🔭 I'm currently employed by [PULULART](https://pululart.es/)💜
 - 🌱 At the moment, I'm learning all the basics and tools it takes to be become a great dev.
 - 🤝🏻 I’m looking to collaborate on companies with great team-based philosophy. I feel like the stronger the bond within a group, the bigger are my opportunities for a wholesome and holistic learning.
