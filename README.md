@@ -1,12 +1,14 @@
-### Hi there 👋
+# Hi there, my name is Diego Viador 👋
 
-- 👨🏻‍💻 I'm Diego, a junior full stack developer. 
-- 🔭 I'm currently employed by [PULULART](https://pululart.es/)💜
-- 🌱 At the moment, I'm learning all the basics and tools it takes to be become a great dev.
-- 🤝🏻 I’m looking to collaborate on companies with great team-based philosophy. I feel like the stronger the bond within a group, the bigger are my opportunities for a wholesome and holistic learning.
-- 🧪 Fun fact: I also have a finished Chemistry Degree.
-- 👨🏻‍🏫 I've also worked as a part-time teacher at [Academia Valor](https://academiavalor.com/). 
-- 💬 Ask me about anything!
+### Full-stack junior developer
+
+![Profile Banner](https://i.imgur.com/g85pKU4.jpg "Currently learning...")
+
+I am a **growing programmer with a year and a half of experience** in the industry. Currently, I am employed at [PULULART](https://pululart.es/)💜 while focusing on learning all the fundamentals and tools required to become an outstanding developer. I am eager to collaborate with companies that value a strong team-based philosophy, as I believe that a tight-knit group allows for more comprehensive and holistic learning opportunities.
+
+🧪 Fun fact: I also have a finished Chemistry Degree. The knowledge acquired during my studies has enabled me to become a part-time teacher at [Academia Valor](https://academiavalor.com/) while simultaneously pursuing my developer career. 
+
+💬 Feel free to ask me anything!
 
 ## About me
 
@@ -19,5 +21,5 @@
 
 ## Contact
 
-- 📫 How to reach me: diegoviadfer@gmail.com
+📫 To get in touch with me, please email: [diegoviadfer@gmail.com](mailto:diegoviadfer@gmail.com)
 
