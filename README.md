@@ -4,11 +4,30 @@
 
 ![Profile Banner](https://i.imgur.com/g85pKU4.jpg "Currently learning...")
 
-I am a **growing programmer with a year and a half of experience** in the industry. Currently, I am employed at [PULULART](https://pululart.es/)💜 while focusing on learning all the fundamentals and tools required to become an outstanding developer. I am eager to collaborate with companies that value a strong team-based philosophy, as I believe that a tight-knit group allows for more comprehensive and holistic learning opportunities.
+💻 I am a **growing programmer with a year and a half of experience** in the industry. Currently, I am employed at [PULULART](https://pululart.es/) 💜 while focusing on learning all the fundamentals and tools required to become an outstanding developer. I am eager to collaborate with companies that value a strong team-based philosophy, as I believe that a tight-knit group allows for more comprehensive and holistic learning opportunities.
 
-🧪 Fun fact: I also have a finished Chemistry Degree. The knowledge acquired during my studies has enabled me to become a part-time teacher at [Academia Valor](https://academiavalor.com/) while simultaneously pursuing my developer career. 
+🧪 I also have a finished Chemistry Degree. The knowledge acquired during my studies has enabled me to become a part-time teacher at [Academia Valor](https://academiavalor.com/) while simultaneously pursuing my developer career. 
 
 💬 Feel free to ask me anything!
+
+## Technologies
+
+![HTML](https://img.shields.io/badge/-html5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-css3-2965f1?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
+![Python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+
+![React](https://img.shields.io/badge/-react-1c84bc?style=for-the-badge&logo=React&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-nodejs-339933?style=for-the-badge&logo=#339933&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/-expressjs-black?style=for-the-badge&logo=Express&logoColor=white)
+
+![SASS](https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/-mongodb-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/-mysql-3776AB?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ## About me
 
