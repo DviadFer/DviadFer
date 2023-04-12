@@ -20,7 +20,7 @@
 
 ![React](https://img.shields.io/badge/-react-1c84bc?style=for-the-badge&logo=React&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-nodejs-339933?style=for-the-badge&logo=#339933&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/-expressjs-black?style=for-the-badge&logo=Express&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/-expressjs-21262d?style=for-the-badge&logo=Express&logoColor=white)
 
 ![SASS](https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
@@ -32,7 +32,7 @@
 ## About me
 
 - 🌳 I'm a nature enthusiast. I love to go on hiking routes and camping outdoors with friends.
-- 🎤 My bigest hobby is singing and acting. I love it! I actually [sing in a choir](https://www.instagram.com/elacordesecreto/?hl=en). 🤫
+- 🎤 My bigest hobby is singing. I love it! I actually [sing in a choir](https://www.instagram.com/elacordesecreto/?hl=en). 🤫
 - 🔬 I love science related topics, especially in tech innovations.
 - 🎮 Yup, I enjoy video games. I guess is a common trait among tech folks.
 - 🎶 I could not live without LIVE music. ¿An interesting concert or nearby festival? Count me in!
