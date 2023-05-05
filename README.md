@@ -21,8 +21,11 @@
 ![React](https://img.shields.io/badge/-react-1c84bc?style=for-the-badge&logo=React&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-nodejs-339933?style=for-the-badge&logo=#339933&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/-expressjs-21262d?style=for-the-badge&logo=Express&logoColor=white)
+![Django](https://img.shields.io/badge/-django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Wordpress](https://img.shields.io/badge/-wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ![SASS](https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
+![Less](https://img.shields.io/badge/-less-1D365D?style=for-the-badge&logo=less&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 
