@@ -4,9 +4,9 @@
 
 ![Profile Banner](https://i.imgur.com/g85pKU4.jpg "Currently learning...")
 
-💻 I am a **growing programmer with a year and a half of experience** in the industry. Currently, I am employed at [PULULART](https://pululart.es/) 💜 while focusing on learning all the fundamentals and tools required to become an outstanding developer. I am eager to collaborate with companies that value a strong team-based philosophy, as I believe that a tight-knit group allows for more comprehensive and holistic learning opportunities.
+💻 I am a **growing programmer with a year and 4 months of experience** in the industry. Currently, I am focused on learning all the fundamentals and tools required to become an outstanding developer. I am eager to collaborate with companies that value a strong team-based philosophy, as I believe that a tight-knit group allows for more comprehensive and holistic learning opportunities.
 
-🧪 I also have a finished Chemistry Degree. The knowledge acquired during my studies has enabled me to become a part-time teacher at [Academia Valor](https://academiavalor.com/) while simultaneously pursuing my developer career. 
+🧪 I also have a finished Chemistry Degree. The knowledge acquired during my studies has enabled me to become a part-time teacher while simultaneously pursuing my developer career. 
 
 💬 Feel free to ask me anything!
 
