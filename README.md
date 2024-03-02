@@ -1,6 +1,6 @@
 # Hi there, my name is Diego Viador 👋
 
-### Full-stack junior developer
+### Full-stack developer
 
 ![Profile Banner](https://i.imgur.com/g85pKU4.jpg "Currently learning...")
 
@@ -18,11 +18,14 @@
 ![PHP](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 ![Python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
+
 ![React](https://img.shields.io/badge/-react-1c84bc?style=for-the-badge&logo=React&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-nodejs-339933?style=for-the-badge&logo=#339933&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/-expressjs-21262d?style=for-the-badge&logo=Express&logoColor=white)
-![Django](https://img.shields.io/badge/-django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Astro](https://img.shields.io/badge/-astro-BC52EE?style=for-the-badge&logo=Astro&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/-wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Sanity](https://img.shields.io/badge/-sanity-F03E2F?style=for-the-badge&logo=Sanity&logoColor=white)
+![Django](https://img.shields.io/badge/-django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ![SASS](https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 ![Less](https://img.shields.io/badge/-less-1D365D?style=for-the-badge&logo=less&logoColor=white)
